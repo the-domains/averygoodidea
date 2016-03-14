@@ -1,0 +1,28 @@
+name: AveryGoodIdea
+favicon: null
+layout_spectrum: 0.07276823511347175
+typography_spectrum: 0.004215201362967491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9520265283063054
+  lightness: 0.03655240312218666
+  saturation: 0.1646625748835504
+  rhythmicContrast: 0.7864675808232278
+purpose: []
